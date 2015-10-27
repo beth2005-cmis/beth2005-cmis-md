@@ -1,1 +1,1 @@
-# beth2005-cmis-md
+# beth2005-cmis-wd

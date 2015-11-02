@@ -1,0 +1,15 @@
+How to create a file in gedit.
+
+1. get the computer started
+2. go to the app "terminal"-> clone your repository by copy&paste the link in your email "git clone --config="http.proxy=http://beth2005:bath322@192.168.2.1:8080" https://github.com/beth2005-cmis/beth2005-cmis-wd.git", {enter}
+3. type "cd beth2005-cmis-wd" to make home your ID, {enter}
+4. type "gedit (file name) &", {enter}
+5. design the fil, then save it
+6. close the file, go back to terminal
+7. type "git add (file name)", {enter}
+8. type "git commit -m "(explanation about the file)"", {enter}
+9. type "git push", {enter}
+
+YOUR DONE!
+
+ps: type "_"

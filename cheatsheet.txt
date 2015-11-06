@@ -14,4 +14,14 @@ git add <file name>
 git commit -m "Commit Comment"
 git push
 
+Moving files to computer
+sftp beth2005@cmis-hsteacher
+password: saKHuAVb/Y8ko
+cd public_html
+put (file name)
+rm (file name)
+* -everything
+exit to exit
+
+!ls - List in previous directory
 

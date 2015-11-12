@@ -2,8 +2,8 @@ h1{
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	color:blue;
 	font-size:60px;
-	background-color:#b0c4de;
-	border-style:groove;
+	border:outset 6px;
+	border-color:red orange;
 }
 h2{
 	font-family:"Comic Sans MS", cursive, sans-serif;
@@ -13,16 +13,25 @@ h2{
 p{
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:25px;
-	color:lightblue
+	color:lightblue;
+}
+h3{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color:blue;
+	font-size:40px;
 }
 footer{
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:25px;
-	color:lightblue
+	color:green;
 }
 html{
-	background-image:url(http://orig13.deviantart.net/4a63/f/2013/118/2/4/tumblr_background__repeat__by_janku_roketto-d63dzsa.jpg)
+	background-image:url(http://wallpaperswa.com/thumbnails/detail/20120913/anonymous%20dark%20v%20for%20vendetta%20black%20background%201280x800%20wallpaper_wallpaperswa.com_5.jpg)
 }
+article{
+	border:dashed 10px yellow;
+}
+
 /*
 Requirements
 
@@ -40,3 +49,4 @@ Requirements
  *Copy this list of requirements and paste it into your "main.css" file as a  css comment. Put an asterisk in front of each one that you did.
  *Upload to the production server with sftp.
  *View your index.html in the production server.
+*/

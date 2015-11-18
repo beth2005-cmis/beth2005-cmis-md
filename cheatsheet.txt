@@ -15,6 +15,8 @@ git add <file name>
 git commit -m "Commit Comment"
 git push
 
+sftp Commands 
+
 Moving files to computer
 sftp beth2005@cmis-hsteacher
 password: saKHuAVb/Y8ko
@@ -26,8 +28,6 @@ exit to exit
 
 !ls - List in previous directory
 
-sftp Commands
-
 sftp username@cmis-hsteacher 
 ls - same as terminal
 cd - same as terminal
@@ -35,4 +35,4 @@ prepend a command with ! to execute it on local
 put <filename> - upload a file
 get <filename> - upload a file
 
-
+http://cmis-hsteacher/~beth2005

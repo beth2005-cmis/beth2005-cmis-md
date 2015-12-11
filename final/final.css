@@ -1,4 +1,8 @@
 *{
+	outline: dotted red 1px
+}
+
+html {
 
 }
 
@@ -11,25 +15,30 @@ header{
 }
 
 nav{
-
+	width:400px;
+	float:left;
 }
 
 main{
-
+	margin-left:400px;
 }
 
 footer{
+	clear:both;
+}
 
+article{
+	clear:both;
 }
 
 img.right{
-
+	float:right;
 }
 
 img.left{
-
+	float:left;
 }
 
 br{
-
+	clear:both;
 }

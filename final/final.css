@@ -3,15 +3,23 @@
 }
 
 html {
-
+	background-image:url(https://media.licdn.com/mpr/mpr/p/7/005/07f/0ec/3174c5c.jpg)
 }
 
 body{
 
 }
 
-header{
+header>h1{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color:black;
+	font-size:60px;
+}
 
+p{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:25px;
+	color:black;
 }
 
 nav{
@@ -25,10 +33,31 @@ main{
 
 footer{
 	clear:both;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:20px;
+	color:black;
 }
 
 article{
 	clear:both;
+}
+
+h2{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color:black;
+	font-size:40px;
+}
+
+h3{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color:black;
+	font-size:25px;
+}
+
+ul{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:20px;
+	color:black;
 }
 
 img.right{
